@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T02:23:44.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4149.0 Safari/537.36 Edg/85.0.528.0" etag="w192S-rXQuk1jQ2wVx1O" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-28T02:28:50.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4149.0 Safari/537.36 Edg/85.0.528.0" etag="9-h5sB_mCC7cgW4kNdtI" version="13.0.1" type="github">
   <diagram id="hjMTDIa1SAHo0vNfESFV" name="第 1 页">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-1" target="iXZN6XoD2tqbXBM6mF5s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-1" value="匹配药店" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="310" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-1" value="匹配药店" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-8" target="iXZN6XoD2tqbXBM6mF5s-11">
           <mxGeometry relative="1" as="geometry" />
@@ -16,11 +16,11 @@
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-8" target="iXZN6XoD2tqbXBM6mF5s-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-8" value="药店来源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="120" height="80" as="geometry" />
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-8" value="药店来源" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-11" value="地理位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-12" target="iXZN6XoD2tqbXBM6mF5s-15">
           <mxGeometry relative="1" as="geometry" />
@@ -28,14 +28,35 @@
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-12" target="iXZN6XoD2tqbXBM6mF5s-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-12" value="药店策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-12" value="药店策略" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-17" value="库存不足" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-17" target="iXZN6XoD2tqbXBM6mF5s-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-15" value="药品不匹配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-17" target="iXZN6XoD2tqbXBM6mF5s-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-17" target="iXZN6XoD2tqbXBM6mF5s-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-17" target="iXZN6XoD2tqbXBM6mF5s-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-17" value="库存不足" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-26" value="药品存量不足" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-24" value="没有库存信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-19" value="无法查询库存" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-15" value="药品不匹配" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
