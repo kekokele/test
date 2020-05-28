@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T02:28:50.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4149.0 Safari/537.36 Edg/85.0.528.0" etag="9-h5sB_mCC7cgW4kNdtI" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-28T02:51:42.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4149.0 Safari/537.36 Edg/85.0.528.0" etag="mjRAwv3ydvCDb2iISIl0" version="13.0.1" type="github">
   <diagram id="hjMTDIa1SAHo0vNfESFV" name="第 1 页">
     <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-8" target="iXZN6XoD2tqbXBM6mF5s-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-8" value="药店来源" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-8" value="药店来源" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-11" value="地理位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-12" target="iXZN6XoD2tqbXBM6mF5s-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-12" value="药店策略" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-12" value="药店策略" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-17" target="iXZN6XoD2tqbXBM6mF5s-19">
@@ -46,17 +46,62 @@
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-17" value="库存不足" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-26" value="药品存量不足" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-26" value="药品存量不足" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-24" value="没有库存信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-24" value="没有库存信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iXZN6XoD2tqbXBM6mF5s-19" value="无法查询库存" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-19" value="无法查询库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iXZN6XoD2tqbXBM6mF5s-15" value="药品不匹配" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="260" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-35" value="info:记录药店的来源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-36" value="info:记录药店最终的数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-37" value="warn:记录药店的编号与方中的药品编码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-38" value="warn:记录 库存不足具体是哪一种情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="480" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-39" target="iXZN6XoD2tqbXBM6mF5s-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-39" target="iXZN6XoD2tqbXBM6mF5s-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-39" value="创建订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-42" target="iXZN6XoD2tqbXBM6mF5s-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXZN6XoD2tqbXBM6mF5s-42" target="iXZN6XoD2tqbXBM6mF5s-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-42" value="匹配到&lt;br&gt;一个符合要求的药店" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-46" value="创建订单&lt;br&gt;推送ERP失败" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-44" value="库存不足&lt;br&gt;（同上）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-40" value="处方已配药或已失效" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-49" value="warn:记录 库存不足具体是哪一种情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1020" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXZN6XoD2tqbXBM6mF5s-50" value="error:记录 失败原因" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1020" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
